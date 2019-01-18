@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("../images/background.png");
+    background-image: url("../images/background.jpg");
     background-color: #cccccc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -52,4 +52,16 @@ button {
 
 .row {
     margin-right: 35px;
+}
+
+p {
+    color: white;
+}
+
+#celeb-form {
+   float:right;
+}
+
+label {
+    color: white;
 }
