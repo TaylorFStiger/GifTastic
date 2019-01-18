@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background-image: url("../images/background.png");
+    background-color: #cccccc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    font-family: cursive;
+    color: rgb(71, 22, 161);
+  
+}
+
+
+.container-fluid {
+    margin: 25px;
+    margin-left: 25px;
+
+}
+
+
+
+button {
+    display: inline-block;
+    font-size: 25px;
+    margin: 5px;
+
+
+}
+
+
+
+#addtext {
+    font-size: 30px;
+    color: #a10714;
+
+}
+
+
+.newItem {
+    display: block;
+    float: left;
+    margin: 20px;
+
+}
+
+
+.row {
+    margin-right: 35px;
+}
